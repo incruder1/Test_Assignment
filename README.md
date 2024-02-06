@@ -35,7 +35,7 @@ This command will run the Jest test suite, executing tests for the Input, Item, 
 -  renders Input component with correct elements.
   
 ## Item Component Tests
-- renders Item component with correct elements .
+- renders the Item component with correct elements.
 - renders Item components with correct elements for the second todo.
 - toggles the second item when its checkbox is clicked.
 - calls removeItem when the remove button is clicked.
@@ -49,4 +49,3 @@ This command will run the Jest test suite, executing tests for the Input, Item, 
 - Calls dispatch with ADD_ITEM when a new todo is submitted.
 - Does not call dispatch with ADD_ITEM when submitting an empty todo.
 
-- ----------xxxxxxxxxxxxxx-----------END--------------------xxxxxxxxxxxxxxxxxx------------------
